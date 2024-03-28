@@ -1,0 +1,17 @@
+fastapi
+from-root
+google-cloud-storage
+Jinja2
+keras
+matplotlib
+nltk
+numpy
+pandas
+pyarrow
+python-dotenv
+regex
+seaborn
+scikit-learn
+tensorflow
+uvicorn
+-e .
