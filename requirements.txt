@@ -3,6 +3,7 @@ from-root
 google-cloud-storage
 Jinja2
 keras
+keras-preprocessing
 matplotlib
 nltk
 numpy
