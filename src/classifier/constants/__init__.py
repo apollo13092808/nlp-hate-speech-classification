@@ -30,7 +30,7 @@ CLASS = 'class'
 
 
 # Model training constants
-MODEL_TRAINER_ARTIFACTS_DIR = 'ModelTrainingArtifacts'
+MODEL_TRAINING_ARTIFACTS_DIR = 'ModelTrainingArtifacts'
 TRAINED_MODEL_DIR = 'trained_model'
 TRAINED_MODEL_NAME = 'model.h5'
 X_TEST_FILE_NAME = 'X_test.csv'
