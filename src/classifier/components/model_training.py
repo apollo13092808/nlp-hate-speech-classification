@@ -12,6 +12,8 @@ from keras.utils import pad_sequences
 from classifier.logger import logging
 from keras_preprocessing.text import Tokenizer
 
+from classifier.ml.model import ModelArchitecture
+
 
 class ModelTraining:
     def __init__(self, data_transformation_artifacts: DataTransformationArtifacts,
